@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ExpiredFilesDestructorService\obj\Release\ExpiredFilesDestructorService.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ExpiredFilesDestructorService\obj\Release\ExpiredFilesDestructorService.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ExpiredFilesDestructorService\bin\Release\ExpiredFilesDestructorService.exe.config
+C:\Users\Admin\source\repos\ExpiredFilesDestructorService\bin\Release\ExpiredFilesDestructorService.exe
+C:\Users\Admin\source\repos\ExpiredFilesDestructorService\bin\Release\ExpiredFilesDestructorService.pdb
+C:\Users\Admin\source\repos\ExpiredFilesDestructorService\bin\Release\Topshelf.dll
+C:\Users\Admin\source\repos\ExpiredFilesDestructorService\bin\Release\Topshelf.StartParameters.dll
+C:\Users\Admin\source\repos\ExpiredFilesDestructorService\bin\Release\Topshelf.xml
+C:\Users\Admin\source\repos\ExpiredFilesDestructorService\obj\Release\ExpiredFilesDestructorService.csproj.CopyComplete
+C:\Users\Admin\source\repos\ExpiredFilesDestructorService\obj\Release\ExpiredFilesDestructorService.exe
+C:\Users\Admin\source\repos\ExpiredFilesDestructorService\obj\Release\ExpiredFilesDestructorService.pdb

@@ -1,0 +1,2 @@
+folder=C:\Users\Admin\Downloads
+expirationHours=1
